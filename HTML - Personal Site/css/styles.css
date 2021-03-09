@@ -1,0 +1,20 @@
+body {
+  background-color: #aee1e1;
+  font-family: FreeMono, monospace;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #28527a;
+  border-width: 8px;
+  width: 10%;
+}
+
+h1 {
+  color: #28527a;
+}
+
+h3 {
+  color: #28527a;
+}
